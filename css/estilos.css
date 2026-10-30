@@ -27,11 +27,12 @@
 .item-menu:hover{
   color: #0D0D0D;
   background-color: #9B9B9B;
-  transition: 200ms ease-out;
 }
 
 .item-menu:focus-visible{
-  outline: 2px #9B9B9B;
+  outline: 2px;
+  outline-color: #9B9B9B;
+  outline-style: solid;
   outline-offset: 3px;
   border-radius: 7px;
 }
