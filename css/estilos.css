@@ -7,7 +7,7 @@
 
 .nav-menu ul{
   display: flex;
-  gap: inherit;
+  gap: initial;
   list-style: none;
   margin: 0pt;
   padding: 0px;
