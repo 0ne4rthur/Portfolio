@@ -1,13 +1,13 @@
 .cabecalho-menu{
   display: flex;
   align-items: center;
-  justify-content: space-batween;
+  justify-content: space-between;
   padding: 16px 24px;
 }
 
 .nav-menu ul{
   display: flex;
-  gap: initial;
+  gap: 16px;
   list-style: none;
   margin: 0pt;
   padding: 0px;
