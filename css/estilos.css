@@ -29,3 +29,9 @@
   background-color: #9B9B9B;
   transition: 200ms ease-out;
 }
+
+.item-menu:focus-visible{
+  outline: 2px #9B9B9B;
+  outline-offset: 3px;
+  border-radius: 7px;
+}
