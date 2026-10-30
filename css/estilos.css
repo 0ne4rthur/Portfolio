@@ -1,0 +1,6 @@
+.cabecalho-menu{
+  display: flex;
+  align-itens: center;
+  justify-content: space-batween;
+  padding: 16px 24px;
+}
