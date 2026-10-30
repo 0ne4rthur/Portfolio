@@ -25,7 +25,7 @@
   padding: 12px 8px;
   border-radius: 7px;
   display: inline-flex;
-  transition: 200ms ease;
+  transition: color 200ms ease, background-color 200ms ease;
 }
 
 .item-menu:hover{
@@ -34,9 +34,7 @@
 }
 
 .item-menu:focus-visible{
-  outline: 2px;
-  outline-color: #9B9B9B;
-  outline-style: solid;
+  outline: 2px solid #9B9B9B;
   outline-offset: 3px;
   border-radius: 7px;
 }
