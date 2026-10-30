@@ -21,7 +21,7 @@
   padding: 12px 8px;
   border-radius: 7px;
   display: inline-flex;
-  transition: 200ms ease-in;
+  transition: 200ms ease;
 }
 
 .item-menu:hover{
