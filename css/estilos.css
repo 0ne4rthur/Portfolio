@@ -1,8 +1,12 @@
 .cabecalho-menu{
+  background-color: #0D0D0D;
   display: flex;
   align-items: center;
   justify-content: space-between;
   padding: 16px 24px;
+  position: sticky;
+  top: 0;
+  z-index: 10;
 }
 
 .nav-menu ul{
