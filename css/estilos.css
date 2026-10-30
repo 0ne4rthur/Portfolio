@@ -21,9 +21,11 @@
   padding: 12px 8px;
   border-radius: 7px;
   display: inline-flex;
+  transition: 200ms ease-in;
 }
 
 .item-menu:hover{
   color: #0D0D0D;
   background-color: #9B9B9B;
+  transition: 200ms ease-out;
 }
